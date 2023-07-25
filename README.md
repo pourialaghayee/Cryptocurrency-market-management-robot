@@ -3,4 +3,4 @@ The goal of this project is to develop a robot that manages the cryptocurrency m
 The following are some examples of project output diagrams.
 
 
-![](./file2.png)
+![](./Result/image/sample.png)
